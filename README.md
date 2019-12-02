@@ -30,15 +30,18 @@ PHP-Project webApp
    <p>Aquí el perfil del usuario, dónde podrá consultar sus datos personales, modificar algunos y consultar su histórico de registros filtrando por fechas:</p>
         <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 14-01-12.png"><br>
         
-       
+        
+              
 <p>Ahora pasaremos a la vista del administrador, en la que podrá consultar a todos los usuarios del sistema:</p>
-<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-18.png"><br>
 
-<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-57-31.png"><br>
+
+
 
 <p>Consultar el historial de registros, filtrando por fechas:</p>
-<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-57-31.png"><br>
+
+
+
 
 <p>Modificar sus datos personales:</p>
-<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-55-47.png">
+
 
