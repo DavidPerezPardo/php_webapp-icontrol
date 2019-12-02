@@ -1,0 +1,14 @@
+.fondo{
+
+  background-image: url("img/fondoLogin.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+
+}
+
+.colorNav {
+
+  background-color:rgba(65, 65, 65, 0.4);
+}
