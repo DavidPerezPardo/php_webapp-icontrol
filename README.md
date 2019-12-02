@@ -31,4 +31,11 @@ PHP-Project webApp
   <p>Ésta es la primera pantalla que se encuentra el usuario, en la que podrá registrar la fecha y hora con tan sólo pulsar el botón, acceder a su perfil o bien cerrar sesión:</p>
     <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-59-29.png">
         <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-59-45.png">
+        <p>Aquí el perfil del usuario, dónde podrá consultar sus datos personales, modificar algunos y consultar su histórico de registros filtrando por fechas:</p>
+        <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 14-01-12.png">
+<p>Ahora pasaremos a la vista del administrador, en la que podrá consultar a todos los usuarios del sistema:</p>
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-18.png">
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-53.png">
+<p></p>
+        
     
