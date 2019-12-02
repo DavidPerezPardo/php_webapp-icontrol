@@ -32,7 +32,7 @@ PHP-Project webApp
         
         
               
-<p>Ahora pasaremos a la vista del administrador, en la que podrá consultar a todos los usuarios del sistema:</p>
+<p>Ahora pasaremos a la vista del administrador, en la que podrá consultar a todos los usuarios del sistema, fijándonos en los botones que aparecen a la derecha de cada usuario, con los que podremos hacer las diferentes operaciones sobre ellos, modificar, consultar, eliminar:</p>
 <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-18.png"><br>
 <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-53.png"><br>
 
