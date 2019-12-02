@@ -28,3 +28,7 @@ PHP-Project webApp
   <hr>
   <p>Para comenzar a usar la aplicación, debemos iniciar sesión con nuestra cuenta de usuario, y en función del tipo/rol, accederemos a una vista u otra, en este caso, la de usuario no-administrador:</p>
   <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura%20de%20pantalla%20de%202019-12-02%2013-58-35.png">
+  <p>Ésta es la primera pantalla que se encuentra el usuario, en la que podrá registrar la fecha y hora con tan sólo pulsar el botón, acceder a su perfil o bien cerrar sesión:</p>
+    <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-59-29.png">
+        <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-59-45.png">
+    
