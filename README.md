@@ -25,3 +25,6 @@ PHP-Project webApp
   </ul>
   
   <h2>Manual</h2>
+  <hr>
+  <p>Para comenzar a usar la aplicación, debemos iniciar sesión con nuestra cuenta de usuario, y en función del tipo/rol, accederemos a una vista u otra, en este caso, la de usuario no-administrador:</p>
+  <img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura%20de%20pantalla%20de%202019-12-02%2013-58-35.png">
