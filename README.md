@@ -33,15 +33,18 @@ PHP-Project webApp
         
               
 <p>Ahora pasaremos a la vista del administrador, en la que podrá consultar a todos los usuarios del sistema:</p>
-
-
-
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-18.png"><br>
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-53-53.png"><br>
 
 <p>Consultar el historial de registros, filtrando por fechas:</p>
-
-
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-57-31.png"><br>
 
 
 <p>Modificar sus datos personales:</p>
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-55-47.png"><br>
+
+<p>Registrar nuevos usuarios en el sistema, creando su cuenta de login: </p>
+<img src="https://github.com/DavidPerezPardo/php_webapp-icontrol/blob/master/capturas/Captura de pantalla de 2019-12-02 13-51-28.png"><br>
+<p>El administrador también podrá eliminar usuarios, impidiendo que puedan acceder a la aplicación, pero manteniendo la información y los registros de los mismos almacenados en la BD, por si fuese necesario su consulta en el futuro.</p>
 
 
