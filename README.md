@@ -1,9 +1,9 @@
 # php_webapp-icontrol
 PHP-Project webApp
 <hr>
-<h1>TÍTULO: iCONTROL</H1>
+## TÍTULO: iCONTROL
 <hr>
-<h2>Descripción</h2>
+## Descripción
 <hr>
 
 <p>Se trata de una aplicación web para llevar un registro del control horario de los trabajadores en una empresa.Registra en la BD la fecha y hora en que el trabajador fichó, tanto a la entrada cómo para la salida.</p>
